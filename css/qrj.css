@@ -16,7 +16,6 @@ body{margin:0;padding:0;background:#ffe;font-size:12px;overflow:auto}
 	position:absolute;
 	left:80px;
 	top:130px;
-	overflow:hidden;
 	text-shadow: 2px 3px 3px #000; 
 	font-family:Microsoft YaHei;
 	font-style:italic;
